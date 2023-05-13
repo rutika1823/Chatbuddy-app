@@ -29,7 +29,7 @@ const io = socketio(server)
 const db = mysql.createConnection({
   host : 'localhost' , 
   user : 'root' , 
-  password : 'rutika' , 
+  password : 'Rutika@123!' , 
   database : 'chatbuddy'
 })
 
